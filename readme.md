@@ -64,11 +64,25 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):** 
 
+Desktop:
+
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/sonoshome.JPG)
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/sonoshome1.JPG)
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/sonoshome2.JPG)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/sonoshome3.JPG)
+
+Mobile:
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/mobile.jpeg)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/mobile1.jpeg)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/mobile2.jpeg)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/mobile3.jpeg)
 
 **Breakdown-schets(en):**
 
