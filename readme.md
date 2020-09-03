@@ -63,7 +63,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp- https://www.sonos.com/nl-nl/home
 
 **Screenshot(s):** 
-(images/sonoshome1.JPG)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
 
 **Breakdown-schets(en):**
 
