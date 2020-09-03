@@ -56,11 +56,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw- Ik kies voor de blauwe piste.
+**Je startniveau:** Blauw
 
-**Je focus:** -kies uit responsive óf surface plane- Ik kies voor de extra aandacht aan de surface laag.
+**Je focus:** Ik kies voor de extra aandacht aan de surface laag.
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp- https://www.sonos.com/nl-nl/home
+**Je opdracht:** https://www.sonos.com/nl-nl/home
 
 **Screenshot(s):** 
 
