@@ -64,7 +64,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):** 
 
-(images/sonoshome1.jpg)
+(images/sonoshome1.JPG)
 
 **Breakdown-schets(en):**
 
