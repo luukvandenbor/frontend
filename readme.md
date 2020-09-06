@@ -86,10 +86,18 @@ Mobile:
 
 **Breakdown-schets(en):**
 
+Section 1:
+
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdown.JPG)
+
+Section 2:
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdown1.JPG)
 
+Section 3:
+
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdown2.JPG)
+
+Section 4:
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdown3.JPG)
