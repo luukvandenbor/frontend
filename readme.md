@@ -6,9 +6,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. Sonos | Draadloze speakers en Home Sound Systems. (z.d.). 
+Geraadpleegd op 26 augustus 2020, van https://www.sonos.com/nl-nl/home
+
 
 
 
@@ -40,13 +40,31 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -dit ging goed & dit was lastig-
 
+Op het begin was het voor mij erg lastig om alle css regels weer op de juiste manier toe te passen waardoor
+het proces wat langzaam van start ging. Nadat ik langs de eerste complicaties was gekomen, ging het positioneren eigenlijk
+best wel soepel en redelijk snel. Het gene wat voor mij nog erg lastig is, is het gebruiken van de z-index voor de overlay
+van verschillende images. Ook het javascript gedeelte heb ik voor nu nog even uitgesteld omdat ik daar wat meer moeite mee heb.
+
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
 
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang1.jpg)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang2.jpg)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang3.jpg)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang4.jpg)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang5.jpg)
+
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
+
+- Z-index versoepeling
+- Tips & Tricks Javascript
 
 ### Verslag van meeting
 
