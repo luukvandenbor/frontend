@@ -49,15 +49,15 @@ van verschillende images. Ook het javascript gedeelte heb ik voor nu nog even ui
 
 -screenshot(s) van hoe ver je bent-
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang1.jpg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang1.JPG)
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang2.jpg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang2.JPG)
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang3.jpg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang3.JPG)
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang4.jpg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang4.JPG)
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang5.jpg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang5.JPG)
 
 ### Agenda voor meeting
 
