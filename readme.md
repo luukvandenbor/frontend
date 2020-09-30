@@ -101,7 +101,8 @@ van verschillende images. Ook het javascript gedeelte heb ik voor nu nog even ui
 ### Verslag van meeting
 
 De studentenassistenten hebben mij laten zien hoe ik het beste de Z-index kan toepassen en een paar tricks meegegeven
-om javascript zo makkelijk mogelijk in mijn website te verwerken.
+om javascript zo makkelijk mogelijk in mijn website te verwerken. Ook hebben ze gezegd dat ik beter de sliders kan laten 
+zitten en me moet gaan focussen op de andere sections.
 
 
 ## Intake (week 1)
