@@ -30,8 +30,40 @@ Geraadpleegd op 26 augustus 2020, van https://www.sonos.com/nl-nl/home
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
 
+-dit ging goed & dit was lastig-
+
+Vanuit de vorige voortgangs meeting kon ik aardig op weg met mijn Z-index, toch was ik hier nog wat meer tijd aan kwijt dan gedacht
+vanwege het precies rechtzetten met de hoeveelheden van de z-index. Nadat het eindelijk was gelukt ben ik verder gegaan met het
+stukje javascript. Hier ben ik echt veel tijd aan kwijt geweest helaas. Met hulp van een mede-student ben ik weer op weg gekomen
+en heb ik het uiteindelijk voor elkaar gekregen (had ik zelf nooit verwacht)! Nu is de homepagina helemaal af en focus ik me op
+de tweede pagina (speaker pagina). Hier heb ik nog wat moeite met elementen linken aan de CSS omdat het vanuit een ander
+html-document vandaan komt.   
+
+**Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent-
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang2_0.JPG)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang2_1.JPG)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang2_2.JPG)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang2_3.JPG)
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+We hebben gezamenlijk besloten dat we allemaal persoonlijke vragen opstellen die we per persoon gaan behandelen tijdens
+de voortgangs meeting.
+
+Mijn persoonlijke vragen:
+
+- Hoe kan ik sections vanuit een andere html document linken met dezelfde CSS pagina? (nth of type - other page?)
+- In hoe verre moet er extra aandacht aan de surface laag worden gegeven als je al veel moeite hebt met het namaken van de website?
 
 
 ## Voortgang 1 (week 3)
@@ -68,8 +100,8 @@ van verschillende images. Ook het javascript gedeelte heb ik voor nu nog even ui
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
-
+De studentenassistenten hebben mij laten zien hoe ik het beste de Z-index kan toepassen en een paar tricks meegegeven
+om javascript zo makkelijk mogelijk in mijn website te verwerken.
 
 
 ## Intake (week 1)
