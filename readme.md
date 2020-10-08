@@ -4,7 +4,6 @@
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
-
 ## Bronnenlijst
 1. Sonos | Draadloze speakers en Home Sound Systems. (z.d.). 
 Geraadpleegd op 26 augustus 2020, van https://www.sonos.com/nl-nl/home
@@ -24,7 +23,35 @@ Geraadpleegd op 26 augustus 2020, van https://www.sonos.com/nl-nl/home
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
+
+-dit ging goed & dit was lastig-
+
+In de afgelopen week heb ik niet hele grote sprongen kunnen maken vanwege deadlines van andere vakken.
+Wel heb ik nog een paar sections kunnen stylen op mijn tweede pagina. Dit ging eigenlijk beter dan verwacht. Hierna kan ik 
+best wel wat elementen kopieren en kan ik me gaan focussen op de animations en het toevoegen van andere schoolopdrahten.
+
+**Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent-
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang3_0.JPG)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/voortgang3_1.JPG)
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+We hebben gezamenlijk besloten dat we allemaal persoonlijke vragen opstellen die we per persoon gaan behandelen tijdens
+de voortgangs meeting.
+
+Mijn persoonlijke vragen:
+
+- Hoe krijg ik mijn divjes beter gecentreerd dan justify content of display flex
+- In hoeverre moet je animations erin hebben zitten als je best veel tijd kwijt bent aan het namaken van de huidige website
+
+### Verslag van meeting
 
 
 
@@ -64,6 +91,21 @@ Mijn persoonlijke vragen:
 
 - Hoe kan ik sections vanuit een andere html document linken met dezelfde CSS pagina? (nth of type - other page?)
 - In hoe verre moet er extra aandacht aan de surface laag worden gegeven als je al veel moeite hebt met het namaken van de website?
+
+### Verslag van meeting
+
+Tips van Jesse:
+
+- Flexbox toevoegen in de footer (3 koloms)
+- Hamburger menu stylen van streepjes naar kruisje (Als genoeg tijd over is)
+- Kijken of bepaalde elementen nog iets meer responsive kunnen
+
+Extra to do's voor mezelf:
+
+- Javascript linken aan de tweede pagina
+- ID's toevoegen aan de mains van beide pagina's om individueel te stylen
+- Link toevoegen in het hidden menu voor linken naar de tweede pagina
+- Animation in het hamburger menu voor extra surface aandacht 
 
 
 ## Voortgang 1 (week 3)
