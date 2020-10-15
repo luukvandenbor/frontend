@@ -53,7 +53,9 @@ Mijn persoonlijke vragen:
 
 ### Verslag van meeting
 
-
+- Overal links/buttons toevoegen in plaats van h2,h3,p etc. (ook op navigatie)
+- Aan de slag gaan met animaties (extra aandacht surface)
+- class toevoegen op de speakerpage voor styling van de producten
 
 ## Voortgang 2 (week 5)
 
