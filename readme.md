@@ -10,16 +10,23 @@ Geraadpleegd op 26 augustus 2020, van https://www.sonos.com/nl-nl/home
 
 
 
-
 ## Eindgesprek (week 7/8)
 
 -dit ging goed & dit was lastig-
+
+In de laatste paar weken ben ik bezig geweest met het voltooien van de tweede pagina en heb ik extra aandacht aan de surface
+laag gegeven door middel van verschillende animaties. De animaties gingen beter dan verwacht door de oefeningen vanuit de
+les. Ik heb het Sonos logo laten draaien en de lp's een glow up gegeven door middel van hovers. Soms struikelde ik nog wel
+eens over een paar kleine foutjes, maar uiteindelijk ben ik erg tevreden met het eindresultaat wat ik heb neergezet voor een
+blauwe piste!
 
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
 
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/eindresultaat1.JPG)
 
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/eindresultaat2.JPG)
 
 ## Voortgang 3 (week 6)
 
