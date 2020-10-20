@@ -24,9 +24,9 @@ blauwe piste!
 
 -screenshot(s) van je eindresultaat-
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/eindresultaat1.JPG)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/eindresultaat1.png)
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/eindresultaat2.JPG)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/eindresultaat2.png)
 
 ## Voortgang 3 (week 6)
 
